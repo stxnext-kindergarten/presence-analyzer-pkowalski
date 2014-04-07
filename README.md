@@ -1,2 +1,4 @@
-presence-analyzer-pkowalski
-===========================
+Presence Analyzer
+=================
+
+Calculate and show employees presence statistics.
